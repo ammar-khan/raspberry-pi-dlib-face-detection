@@ -5,7 +5,7 @@ Dlib (Digital Library) Face Detection
 Prerequisite(s):
 ----------------
 
-- Python 3.5>
+- Python =>3.5
 - pip
 - numpy
 - Open CV
