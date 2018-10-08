@@ -13,7 +13,7 @@ Prerequisite(s):
 - imutils
 - PIL
 
-.. _Prerequisites Installation Guide: https://domain.invalid/
+.. _Prerequisites Installation Guide: https://github.com/ammar-khan/raspberry-pi-3-model-b-plus
 
 `Prerequisites Installation Guide`_
 
