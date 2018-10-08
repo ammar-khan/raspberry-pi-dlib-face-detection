@@ -1,5 +1,6 @@
 ==================================================================
-Dlib (Digital Library) Face Detection
+
+Raspberry Pi, Dlib (Digital Library) Face Detection
 ==================================================================
 
 Prerequisite(s):
